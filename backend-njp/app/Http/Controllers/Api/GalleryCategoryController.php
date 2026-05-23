@@ -10,7 +10,7 @@ class GalleryCategoryController extends Controller
 {
     public function index()
     {
-        // Assuming relationship 'items' is defined in GalleryCategory model
+        
         $categories = GalleryCategory::with('items')->get();
         return response()->json([
             'status' => 'success',

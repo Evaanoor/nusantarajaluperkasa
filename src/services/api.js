@@ -6,7 +6,7 @@ const API_VERSION = '/api/v1'
 const MOCK_BASE = '/draft/api-contract'
 
 // Set false untuk menggunakan real API, true untuk mock data
-const IS_MOCK = false
+const IS_MOCK = true
 
 /**
  * Generic fetch wrapper
@@ -18,8 +18,19 @@ async function request(endpoint, options = {}) {
   
   const cleanEndpoint = endpoint.startsWith('/') ? endpoint.slice(1) : endpoint;
   
+  let mockEndpoint = cleanEndpoint;
+  if (cleanEndpoint.startsWith('news/') && cleanEndpoint !== 'news') {
+    mockEndpoint = 'news_detail';
+  } else if (cleanEndpoint.startsWith('products/') && cleanEndpoint !== 'products') {
+    mockEndpoint = 'products';
+  } else if (cleanEndpoint.startsWith('galleries/') && cleanEndpoint !== 'galleries') {
+    mockEndpoint = 'galleries';
+  } else if (cleanEndpoint === 'hero-banners') {
+    mockEndpoint = 'home_content';
+  }
+  
   const url = (IS_MOCK || isMockEndpoint)
-    ? `${MOCK_BASE}/${cleanEndpoint}.json` 
+    ? `${MOCK_BASE}/${mockEndpoint}.json` 
     : `${BASE_URL}${API_VERSION}/${cleanEndpoint}`
   
   try {
@@ -54,7 +65,11 @@ async function request(endpoint, options = {}) {
 
     const text = await response.text();
     try {
-      return JSON.parse(text);
+      const parsed = JSON.parse(text);
+      if (IS_MOCK && cleanEndpoint === 'hero-banners' && parsed.data && parsed.data.hero_banners) {
+        return { data: parsed.data.hero_banners[0].items };
+      }
+      return parsed;
     } catch (parseError) {
       const error = new Error('Invalid JSON response from server');
       error.response = { status: 200, data: text };
