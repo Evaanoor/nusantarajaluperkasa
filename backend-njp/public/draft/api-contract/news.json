@@ -1,0 +1,151 @@
+{
+  "status": "success",
+  "message": "Data daftar berita berhasil diambil",
+  "hero": {
+    "title": "NEWS",
+    "description": "Explore our latest updates, handcrafted collections, exhibition highlights, and inspiring stories behind every artistic creation we proudly present.",
+    "background_image": "/draft/mocks/images/news-dump.jpg"
+  },
+  "data": [
+    {
+      "id": 1,
+      "slug": "lorem-ipsum-dolor-sit-amet-1",
+      "title": "Jiffina March 7 - 10 2026 Furniture and handicraft exhibition",
+      "excerpt": "Visit of the Deputy and Chief Secretary of the Special Region of Yogyakarta to our stand, Jiffina 2026, booth B.15",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "10th March 2026",
+      "is_featured": true
+    },
+    {
+      "id": 2,
+      "slug": "lorem-ipsum-dolor-sit-amet-2",
+      "title": "Perilisan Koleksi Vas Terbaru",
+      "excerpt": "Koleksi terbaru kami menghadirkan nuansa minimalis untuk ruang tamu Anda...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Sunday, 12th April 2024",
+      "is_featured": true
+    },
+    {
+      "id": 3,
+      "slug": "lorem-ipsum-dolor-sit-amet-3",
+      "title": "Tips Merawat Keramik Handmade",
+      "excerpt": "Berikut adalah beberapa tips agar keramik buatan tangan Anda tetap awet...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Friday, 10th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 4,
+      "slug": "lorem-ipsum-dolor-sit-amet-4",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 5,
+      "slug": "lorem-ipsum-dolor-sit-amet-4",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 6,
+      "slug": "lorem-ipsum-dolor-sit-amet-5 ",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 7,
+      "slug": "lorem-ipsum-dolor-sit-amet-4",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 8,
+      "slug": "lorem-ipsum-dolor-sit-amet-4",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 9,
+      "slug": "lorem-ipsum-dolor-sit-amet-4",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 10,
+      "slug": "lorem-ipsum-dolor-sit-amet-4",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 11,
+      "slug": "lorem-ipsum-dolor-sit-amet-4",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 12,
+      "slug": "lorem-ipsum-dolor-sit-amet-4",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 13,
+      "slug": "lorem-ipsum-dolor-sit-amet-4",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 14,
+      "slug": "lorem-ipsum-dolor-sit-amet-4",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    },
+    {
+      "id": 15,
+      "slug": "lorem-ipsum-dolor-sit-amet-4",
+      "title": "Pameran Desain Interior 2024",
+      "excerpt": "Kami akan hadir di pameran desain interior terbesar tahun ini...",
+      "thumbnail_url": "/draft/mocks/images/news-dump.jpg",
+      "published_at": "Wednesday, 8th April 2024",
+      "is_featured": false
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 5,
+    "total_items": 45
+  }
+}

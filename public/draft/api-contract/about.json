@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "title": "ABOUT",
+    "subtitle": "NJP POTTERY",
+    "backgroundImage": "/draft/mocks/images/LOGO.png"
+  },
+  "history": {
+    "title": "OUR STORY",
+    "description": "Nusantara Jalu Perkasa is a company engaged in the arts and crafts sector, founded in 2007. The company focuses on creating various handcrafted products that prioritize artistic value, creativity, and quality in every detail of the workmanship.\n\nBy combining the skills of local craftsmen and a distinctive design touch, Nusantara Jalu Perkasa presents works that not only have high aesthetic value, but also reflect the rich culture and character of Indonesian crafts. To date, the company continues to grow by maintaining a commitment to quality, innovation, and customer satisfaction in every product produced.",
+    "buttonText": "Download Company Profile",
+    "image_url": "/draft/mocks/images/LOGO.png",
+    "file_url": "/documents/company-profile.pdf"
+  },
+  "companyJourney": {
+    "title": "THE JOURNEY OF\nCIFILISATION\nTHE TRUELY INDONESIAN\nHANDMADE",
+    "description": "Our journey is rooted in the richness of Indonesian heritage, where tradition and craftsmanship come together in every handmade creation. We embrace the beauty of local artistry, transforming cultural inspiration into meaningful pieces that reflect identity, history, and soul. Each work is carefully crafted by hand, preserving authentic techniques while bringing them into a modern context creating timeless pieces that carry the spirit of Indonesia into every space.",
+    "image_url": "/draft/mocks/images/LOGO.png"
+  },
+  "philosophy": {
+    "title": "CRAFTING MEANINGFUL CREATIONS THROUGH ART, PASSION, AND HANDCRAFTED DETAIL",
+    "description": "Every piece we create is a reflection of passion, creativity, and dedication to the art of handcrafting. From the initial concept to the final detail, we carefully shape each work to transform ideas into meaningful creations that resonate with people and their surroundings.",
+    "description2": "Our approach blends artistic expression with thoughtful design, resulting in unique pieces that not only enhance spaces but also carry a story, a feeling, and a lasting impression.",
+    "image_url": "/draft/mocks/images/LOGO.png"
+  },
+  "value": {
+    "title": "PRESERVING ARTISTRY THROUGH TIMELESS HANDCRAFTED CREATIONS",
+    "description": "Every handcrafted piece we create carries a blend of artistic value, cultural inspiration, and meticulous craftsmanship. With a passion for detail and creativity, we transform raw ideas into meaningful works that bring warmth, character, and authenticity into every space. Through dedication and innovation, we continue to create unique handicraft creations that celebrate beauty, tradition, and the timeless spirit of artisan craftsmanship.",
+    "image_url": "/draft/mocks/images/LOGO.png"
+  }
+}

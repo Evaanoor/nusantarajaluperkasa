@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "title": "CONTACT US",
+    "subtitle": "GET IN TOUCH",
+    "backgroundImage": "/images/contact-hero.jpg"
+  },
+  "address_section": {
+    "address_title": "OUR ADDRESS",
+    "address": "Dusun Semail, Rt.06, Bangunharjo, Sewon, Bantul,\nYogyakarta, 55187, INDONESIA.",
+    "hours_title": "OPENING HOURS",
+    "hours": "Mon - Sun 08:00 AM - 16:00 PM",
+    "question_title": "HAVE A QUESTION?",
+    "email": "nusantarajaluperkasa@gmail.com",
+    "call_title": "CALL US",
+    "phone": "+62 819-1296-2040"
+  },
+  "form_section": {
+    "title": "GET IN TOUCH WITH US",
+    "subtitle": "We're here to answer your questions and support your needs, just send us a message and we'll get back to you shortly.",
+    "bg_image": "/images/workshop.png"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "status": "success",
+  "data": {
+    "hero_banners": [
+      { 
+        "id": 1,
+        "name": "Hero Banner",
+        "slug": "hero-banner",
+        "items": [
+          { 
+            "id": 101, 
+            "title": "Main slide", 
+            "image_url": "banner1.jpg" 
+          },
+          { 
+            "id": 102, 
+            "title": "Secondary slide", 
+            "image_url": "banner2.jpeg" 
+          },
+          { 
+            "id": 103, 
+            "title": "Tertiary slide", 
+            "image_url": "banner3.jpeg" 
+          },
+          { 
+            "id": 104, 
+            "title": "Fourth slide", 
+            "image_url": "banner.jpeg" 
+          }
+        ]
+      }
+    ],
+    "about_us": {
+      "menu_title": "about us",
+      "main_heading": "THE JOURNEY OF CIVILIZATION THE TRULY INDONESIAN HANDMADE",
+      "content": "Kami adalah perusahaan...",
+      "image_url": "/images/LOGO.png",
+      "button_text": "About Our Story"
+    },
+    "our_products": [
+      { 
+        "id": 1, 
+        "name": "Vas Gelombang", 
+        "slug": "vas-gelombang",
+        "category_slug": "vase-pot",
+        "primary_image_url": "/images/vas.jpeg",
+        "hover_image_url": "/images/vas-angle.jpeg"
+      },
+      { 
+          "id": 2, 
+          "name": "Classic Lamp", 
+          "slug": "classic-lamp",
+          "category_slug": "lamp",
+          "primary_image_url": "/images/lamp.jpeg",
+          "hover_image_url": "/images/lamp-angle.jpeg"
+      },
+      { 
+        "id": 3, 
+        "name": "Vas Gelombang", 
+        "slug": "vas-gelombang",
+        "category_slug": "vase-pot",
+        "primary_image_url": "/images/vas.jpeg",
+        "hover_image_url": "/images/vas-angle.jpeg"
+      }
+    ],
+    "world_map": {
+      "subtitle": "Our Global Footprint",
+
+      "title": "Various Countries That Have Collected Our Products In The World",
+
+      "image_url": "/images/map-base.png",
+
+      "locations": [
+        { "id": 1, "country": "United State Of America", "top": "30%", "left": "17%", "position": "left" },
+        { "id": 2, "country": "Mexico", "top": "45%", "left": "17%", "position": "left" },
+        { "id": 3, "country": "The Netherlands", "top": "31%", "left": "47%", "position": "left" },
+        { "id": 4, "country": "Belgium", "top": "35%", "left": "48%", "position": "left" },
+        { "id": 5, "country": "Portugal", "top": "42%", "left": "45%", "position": "left" },
+        { "id": 6, "country": "United Kingdom", "top": "27%", "left": "50%", "position": "right" },
+        { "id": 7, "country": "German", "top": "34%", "left": "51%", "position": "right" },
+        { "id": 8, "country": "Italy", "top": "39%", "left": "52%", "position": "right" },
+        { "id": 9, "country": "Spain", "top": "42%", "left": "50%", "position": "right" },
+        { "id": 10, "country": "Ibiza Island", "top": "44%", "left": "54%", "position": "right" },
+        { "id": 11, "country": "Saudi Arabia", "top": "52%", "left": "59%", "position": "left" },
+        { "id": 12, "country": "Qatar", "top": "48%", "left": "61%", "position": "left" },
+        { "id": 13, "country": "Abu Dhabi", "top": "50%", "left": "64%", "position": "right" },
+        { "id": 14, "country": "Mauritius", "top": "78%", "left": "58%", "position": "left" },
+        { "id": 15, "country": "Reunion Island", "top": "76%", "left": "63%", "position": "right" },
+        { "id": 16, "country": "India", "top": "53%", "left": "70%", "position": "right" },
+        { "id": 17, "country": "China", "top": "43%", "left": "77%", "position": "left" },
+        { "id": 18, "country": "Japan", "top": "46%", "left": "83%", "position": "left" },
+        { "id": 19, "country": "Korea", "top": "34%", "left": "83%", "position": "right" },
+        { "id": 20, "country": "Malaysia", "top": "55%", "left": "77%", "position": "right" },
+        { "id": 21, "country": "Bali", "top": "65%", "left": "81%", "position": "right" },
+        { "id": 22, "country": "Australia", "top": "75%", "left": "84%", "position": "left" },
+        { "id": 23, "country": "New Zealand", "top": "88%", "left": "92%", "position": "left" }
+      ]
+    }
+  }
+}

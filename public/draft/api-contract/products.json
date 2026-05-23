@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "message": "Data detail produk berhasil diambil",
+  "data": {
+    "id": 112,
+    "slug": "classic-nightstand-lamp",
+    "name": "Classic Nightstand Lamp",
+    "category": "Lamp",
+    "price": 100000,
+    "primary_image_url": "/draft/mocks/images/lamp.jpeg",
+    "hover_image_url": "/draft/mocks/images/lamp-angle.jpeg",
+    "description": "Bawa sentuhan alami dan elegan ke dalam rumah Anda dengan Classic Nightstand Lamp ini. Desain minimalis dengan pencahayaan hangat membuatnya cocok dipadukan dengan berbagai tema ruangan.",
+    "specifications": {
+      "material": "Handmade Ceramic",
+      "dimensions": "15x15x20 cm",
+      "weight": "1.5 kg"
+    },
+    "features": [
+      "Warm White LED Included",
+      "Hemat Energi",
+      "Kabel dengan switch on/off"
+    ],
+    "images": [
+      "/draft/mocks/images/lamp.jpeg",
+      "/draft/mocks/images/lamp-angle.jpeg",
+      "/draft/mocks/images/lamp.jpg",
+      "/draft/mocks/images/lamp-angle.jpg"
+    ]
+  }
+}

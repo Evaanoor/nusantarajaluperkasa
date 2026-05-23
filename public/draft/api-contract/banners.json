@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "message": "Data banner berhasil diambil",
+  "data": {
+    "gallery": {
+      "title": "GALLERY",
+      "description": "Discover our collection of handcrafted interior products",
+      "background_image": "/draft/mocks/images/hero-gallery.jpg"
+    },
+    "news": {
+      "title": "NEWS",
+      "description": "Explore our latest updates, handcrafted collections, exhibition highlights, and inspiring stories behind every artistic creation we proudly present.",
+      "background_image": "/draft/mocks/images/hero-gallery.jpg"
+    },
+    "about": {
+      "title": "ABOUT\nNUSANTARA JALU\nPERKASA",
+      "description": "Learn more about our journey and craftsmanship",
+      "background_image": "/draft/mocks/images/hero-about.jpg"
+    },
+    "contact": {
+      "title": "CONTACT US",
+      "subtitle": "Get in touch with us for inquiries and partnerships",
+      "background_image": "/draft/mocks/images/banner2.jpeg"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "data": {
+    "id": 1,
+    "category": "EXHIBITION",
+    "date": "12 May 2026",
+    "title": "Eksplorasi Keindahan Kriya Nusantara di Pameran Internasional 2026",
+    "main_image": "/draft/mocks/images/news-dump.jpg",
+    "side_image": "/draft/mocks/images/news-dump.jpg",
+    "content": {
+      "paragraphs_1": [
+        "Pameran Internasional 2026 menjadi momen bersejarah bagi seniman kriya nusantara. Acara yang diselenggarakan di pusat kota ini berhasil menarik perhatian ribuan pengunjung dari berbagai penjuru dunia. Dengan mengusung tema 'Sinergi Tradisi dan Modernitas', pameran ini tidak hanya menampilkan keindahan visual, tetapi juga filosofi mendalam di balik setiap karya.",
+        "Para pengrajin lokal diberikan panggung utama untuk menceritakan kisah di balik proses kreatif mereka. Mulai dari teknik anyaman, pahatan kayu, hingga pembuatan keramik yang membutuhkan ketelitian tingkat tinggi."
+      ],
+      "quote": "Kriya bukan sekadar benda mati, ia adalah denyut nadi budaya yang terus hidup dan beradaptasi melintasi zaman.",
+      "paragraphs_2": [
+        "Salah satu daya tarik utama dalam pameran ini adalah instalasi interaktif di mana pengunjung dapat menyentuh dan merasakan langsung tekstur material alami yang digunakan. Pendekatan ini bertujuan untuk menumbuhkan apresiasi yang lebih besar terhadap produk buatan tangan.",
+        "Kami berharap pameran ini menjadi titik tolak bagi para pengrajin untuk menembus pasar global, sekaligus mengedukasi masyarakat tentang pentingnya menjaga kelestarian kerajinan tradisional di era digital."
+      ]
+    },
+    "related_articles": [
+      {
+        "id": 2,
+        "thumbnail": "/draft/mocks/images/news-dump.jpg",
+        "date": "05 May 2026",
+        "title": "Inovasi Desain Kriya Ramah Lingkungan untuk Kehidupan Modern"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/draft/mocks/images/news-dump.jpg",
+        "date": "28 April 2026",
+        "title": "Kolaborasi Pengrajin Lokal Menghasilkan Koleksi Masterpiece"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/draft/mocks/images/news-dump.jpg",
+        "date": "14 April 2026",
+        "title": "Menilik Proses Panjang di Balik Pembuatan Keramik Artisan"
+      }
+    ]
+  }
+}
