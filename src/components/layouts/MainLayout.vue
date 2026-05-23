@@ -13,6 +13,6 @@
 </template>
 
 <script setup>
-import Navbar from '../Base/Navbar.vue';
-import Footer from '../Base/Footer.vue';
+import Navbar from '../base/Navbar.vue';
+import Footer from '../base/Footer.vue';
 </script>
