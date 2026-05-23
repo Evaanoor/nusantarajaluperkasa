@@ -16,7 +16,7 @@
       <div
         class="relative w-full aspect-[16/9] bg-contain bg-center bg-no-repeat"
         style="
-          background-image: url('../../../../draft/mocks/images/global-globalization-world-map-environmental-concservation-concept 1.png');
+          background-image: url('/draft/mocks/images/global-globalization-world-map-environmental-concservation-concept 1.png');
         "
       >
 

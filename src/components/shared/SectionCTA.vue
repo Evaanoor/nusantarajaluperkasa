@@ -7,7 +7,7 @@
     <div class="relative w-full h-[600px] md:h-[700px]">
 
       <img
-        src="../../../../draft/mocks/images/workshop.png"
+        src="/draft/mocks/images/workshop.png"
         alt="Workshop"
         class="absolute inset-0 w-full h-full object-cover"
       />
